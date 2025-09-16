@@ -2,11 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on ftdr</title>
-    <link>https://example.org/posts/</link>
+    <link>https://sceneighbor.netlify.app/posts/</link>
     <description>Recent content in Posts on ftdr</description>
     <generator>Hugo</generator>
     <language>ja</language>
-    <lastBuildDate></lastBuildDate>
-    <atom:link href="https://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 16 Sep 2025 16:55:17 +0900</lastBuildDate>
+    <atom:link href="https://sceneighbor.netlify.app/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ブログを作るだけの趣味</title>
+      <link>https://sceneighbor.netlify.app/posts/test/</link>
+      <pubDate>Tue, 16 Sep 2025 16:55:17 +0900</pubDate>
+      <guid>https://sceneighbor.netlify.app/posts/test/</guid>
+      <description>&lt;p&gt;たまには蕎麦でも打つかみたいなおそらくそういう気分でたまには新しいブログ作ってみるかという衝動が起こる。べつにすごいやりたいわけではないんだけどただただこの作業がしたいだけで作ることがある。運用のことは考えてない。ただなんとなくしずインみたいにブラウザ上で記事作成できるサービスを探してたのはあり、その結果がいろいろなんかうまく使えなくて疲労ではあった。&lt;/p&gt;&#xA;&lt;p&gt;ブラウザ上で爆速で何かを走り書くことをいつかまた試したい気持ちはありつつ、エディタを変えたらいいのかなとも思う。ずっとエディタ難民だから波長の合うエディタにたどり着くことが最優先事項なのかもしれない。&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
