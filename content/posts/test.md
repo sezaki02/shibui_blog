@@ -1,6 +1,6 @@
 +++
 date = '2025-09-16T16:55:17+09:00'
-draft = true
+draft = false
 title = 'ブログを作るだけの趣味'
 tags = ["days"]
 +++
