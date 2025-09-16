@@ -1,0 +1,7 @@
+baseURL = 'https://example.org/'
+languageCode = 'ja'
+title = 'ftdr'
+theme = "shibui"
+
+[module]
+  disable = true
