@@ -1,6 +1,6 @@
 +++
 date = '2025-10-16T10:55:56+09:00'
-draft = true
+draft = false
 title = 'monochrome_yokohama'
 +++
 
