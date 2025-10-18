@@ -1,7 +1,7 @@
 +++
 date = '2025-10-18T13:07:06+09:00'
 draft = false
-title = 'monocrhome_sendai'
+title = 'monochrome_sendai'
 tags = ["Photo"]
 +++
 
